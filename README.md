@@ -59,7 +59,7 @@ The following Python libraries are used for data manipulation, analysis, and vis
 *   `numpy`: For numerical operations and computations.
 *   `matplotlib`: For creating static visualizations and plots.
 *   `seaborn`: For enhanced data visualization with a clean aesthetic.
-*   `scipy `for T-test
+*   `scipy`: for T-test
 
 
 
