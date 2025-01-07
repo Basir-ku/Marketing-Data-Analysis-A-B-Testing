@@ -38,7 +38,7 @@ This notebook calculates the overall conversion rate and further examines conver
 * **Subscribing Channel**: Most channels, including Facebook, House Ads, Instagram, and Push, have near-perfect conversion rates (100%), except for Email (80%).
 *  All marketing channels show a noticeable spike in conversion rates. However, From 12 January to 17 January, House Ads exhibited the lowest conversion rate compared to other channels.
 
-# A/B Test Notbook
+# A/B Test Notebook
 
 The goal of this analysis is to evaluate the effectiveness of personalized email messaging in driving user conversions, comparing it to generic upsell emails. By conducting A/B testing and performing statistical analysis, the study aims to identify whether personalized messaging leads to higher conversion rates across different language segments, providing insights for optimizing email marketing strategies.
 
